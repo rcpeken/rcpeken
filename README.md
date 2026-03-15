@@ -2,6 +2,9 @@
 🌱 I’m currently learning BigData, C<br>💬 Ask me about Java, SpringBoot, React, ReactNative<br>
 
 
+![](https://komarev.com/ghpvc/?username=rcpeken&style=for-the-badge)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/recep-eken-85bb21264) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:recepeken113@gmail.com) 
 
