@@ -14,11 +14,6 @@ Computer Engineering graduate, building backend systems and end-to-end ML projec
 
 ---
 
-### 🏆 Open Source
-
-[![Apache Lucene](https://img.shields.io/badge/Apache%20Lucene-Contributor-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/apache/lucene/pull/16735)
-
-Added **`Float16VectorSimilarityQuery`** to Apache Lucene, the search library behind Elasticsearch and OpenSearch: similarity-threshold search over half-precision vectors. Merged for Lucene 11.0 → [#16735](https://github.com/apache/lucene/pull/16735)
 
 ### 🚀 Projects
 
